@@ -1,0 +1,6 @@
+{
+  "name": "GATE CS Tracker",
+  "description": "Comprehensive GATE Computer Science & IT preparation workspace with syllabus tracker, revision rounds, PYQ log, mock test analyzer, error notebook, GATE virtual calculator, and study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
